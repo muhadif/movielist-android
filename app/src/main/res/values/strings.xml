@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppMovie</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="search_film">Search Film</string>
+    <string name="search">Search</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+    <string name="overview_film">Overview Film</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="rating_value">9.8</string>
+    <string name="duration">Duration</string>
+    <string name="language">Language</string>
+    <string name="genres">Genres</string>
+    <string name="release">Release</string>
+</resources>
